@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a fullstack web developer living in Oxfordshire. I love learning and building things, check out my portfolio https://portfolio-jackmcbride.vercel.app/
+### Hi there 👋 I'm a fullstack web developer living in Bristol. I love learning and building things, check out my portfolio https://portfolio-jackmcbride.vercel.app/
 <a href="https://app.daily.dev/muccy"><img src="https://api.daily.dev/devcards/c771194882914c8f9be22a1a6fa369fe.png?r=lxh" width="400" alt="Jack McBride's Dev Card"/></a>
 <!--
 **JackMcBride98/JackMcBride98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
